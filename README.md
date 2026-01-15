@@ -7,33 +7,6 @@ Atuo desde a concepção até a entrega de sistemas web, mobile, automações e 
 🔗 [LinkedIn](https://www.linkedin.com/in/anderson-de-sousa-3668513a5) | 💼 [Portfólio](https://wandering-fog-3337.anderson-r-v-sousa.workers.dev/) | 🐙 [GitHub](https://github.com/Blavken13)
 
 ---
-
-## 🚀 Projetos em Destaque
-
-### 📱 **Plataforma de Ensino de Inglês com IA**
-- Assistente virtual com **IA generativa, RAG e suporte a voz**.
-- Backend com **FastAPI (Python)** e **Node.js**, frontend em **Flutter**.
-- Uso de **LangChain** para orquestração de prompts e **ChromaDB** para armazenamento vetorial.
-- TTS via Edge TTS e integração contínua com histórico de conversas.
-
-### 💬 **Chatbot Inteligente para WhatsApp**
-- Atendimento automatizado com e sem IA, usando **RAG** e recuperação contextual.
-- Integração com APIs externas e processamento de mensagens em tempo real.
-- Armazenamento estruturado em **Supabase** e **SQLite**.
-
-### 🍽️ **Sistema de Comandas Digitais para Restaurantes**
-- Gestão completa de pedidos, mesas e relatórios.
-- **Front-end**: Flutter  
-- **Back-end**: Node.js + Express  
-- Persistência com **SQL** e deploy em ambientes containerizados (**Docker**).
-
-### 📚 **Tradução Automatizada de Livros com IA**
-- Pipeline de processamento de texto em larga escala.
-- Uso de modelos de linguagem eficientes com **Python** e **LangChain**.
-- Processamento paralelo e armazenamento em nuvem (**AWS S3** para arquivos brutos).
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens & Frameworks
@@ -60,6 +33,32 @@ Atuo desde a concepção até a entrega de sistemas web, mobile, automações e 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📱 **Plataforma de Ensino de Inglês com IA**
+- Assistente virtual com **IA generativa, RAG e suporte a voz**.
+- Backend com **FastAPI (Python)** e **Node.js**, frontend em **Flutter**.
+- Uso de **LangChain** para orquestração de prompts e **ChromaDB** para armazenamento vetorial.
+- TTS via Edge TTS e integração contínua com histórico de conversas.
+
+### 💬 **Chatbot Inteligente para WhatsApp**
+- Atendimento automatizado com e sem IA, usando **RAG** e recuperação contextual.
+- Integração com APIs externas e processamento de mensagens em tempo real.
+- Armazenamento estruturado em **Supabase** e **SQLite**.
+
+### 🍽️ **Sistema de Comandas Digitais para Restaurantes**
+- Gestão completa de pedidos, mesas e relatórios.
+- **Front-end**: Flutter  
+- **Back-end**: Node.js + Express  
+- Persistência com **SQL** e deploy em ambientes containerizados (**Docker**).
+
+### 📚 **Tradução Automatizada de Livros com IA**
+- Pipeline de processamento de texto em larga escala.
+- Uso de modelos de linguagem eficientes com **Python** e **LangChain**.
+- Processamento paralelo e armazenamento em nuvem (**AWS S3** para arquivos brutos).
 
 ---
 
