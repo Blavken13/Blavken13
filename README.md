@@ -10,7 +10,7 @@
     <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="SEU_LINK_DO_PORTFOLIO_AQUI" target="_blank">
+    <a href="portfolio.andersonsousa.surge.sh" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfólio" />
     </a>
   </p>
