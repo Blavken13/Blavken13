@@ -7,10 +7,10 @@
     <a href="mailto:anderson.sousa1@outlook.com.br">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/anderson-sousa-3668513a5" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="portfolio.andersonsousa.surge.sh" target="_blank">
+    <a href="https://portfolio.andersonsousa.surge.sh" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfólio" />
     </a>
   </p>
