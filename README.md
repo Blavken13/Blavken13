@@ -1,86 +1,84 @@
-👋 Olá, eu sou Anderson Sousa
-Desenvolvedor Full Stack com foco em soluções inteligentes, escaláveis e centradas no usuário.
-Atuo desde a concepção até a entrega de sistemas web, mobile, automações e aplicações com inteligência artificial aplicada, ajudando negócios a resolverem problemas reais com tecnologia.
+<div align="center">
+  <h1>👋 Olá, eu sou Anderson Sousa</h1>
+  <p>Desenvolvedor Full Stack com foco em soluções inteligentes, escaláveis e centradas no usuário.</p>
+  <p>Atuo desde a concepção até a entrega de sistemas web, mobile, automações e aplicações com inteligência artificial aplicada, ajudando negócios a resolverem problemas reais com tecnologia.</p>
 
-📍 Bragança – PA | 📧 anderson.sousa1@outlook.com.br
-🔗 LinkedIn | 💼 Portfólio | 🐙 GitHub
+  <p align="center">
+    <a href="mailto:anderson.sousa1@outlook.com.br">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="SEU_LINK_DO_PORTFOLIO_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfólio" />
+    </a>
+  </p>
+  <p>📍 Bragança – PA, Brasil</p>
+</div>
 
-🛠️ Tecnologias & Ferramentas
-Linguagens & Frameworks
+---
 
-JavaScript (ES6+), TypeScript, Python, C#
+## 🛠️ Tecnologias & Ferramentas
 
-Node.js, Fastify, Express
+<div align="center">
+  <p><strong>Linguagens & Front-end</strong></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,flutter,vite,html,css" alt="Linguagens e Frontend" />
+  
+  <p><strong>Back-end, Banco de Dados & Infraestrutura</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastify,express,postgres,sqlite,supabase,redis,docker,aws" alt="Backend e Infra" />
+</div>
 
-React, React Native, Flutter, Vite
+<br>
 
-Arquitetura & Ecossistema
+**Arquitetura, Ecossistema & IA:**
+* **Frontend:** Zustand (Gerenciamento de Estado), TanStack Query (React Query)
+* **Backend:** Knex.js (Query Builder), Zod (Validação de Schemas)
+* **Segurança:** JWT (Acesso & Refresh), RBAC (Role-Based Access Control Granular)
+* **Padrões:** Arquitetura SaaS Multi-tenant, Tratamento de Filas/Jobs (BullMQ)
+* **IA Generativa:** LangChain, LLMs, ChromaDB, Edge TTS
 
-Zustand, TanStack Query (React Query)
+---
 
-Knex.js (Query Builder), Zod (Validação de Schemas)
+## 🚀 Projetos em Destaque
 
-JWT (Acesso & Refresh), RBAC (Role-Based Access Control Granular)
+### 🏢 ConversAI-PRO (Plataforma ERP SaaS Multi-tenant)
+> Plataforma corporativa de gestão integrada para empresas, contendo módulos de PDV, Estoque, Financeiro, CRM e Governança.
+* **Arquitetura & Segurança:** Sistema Multi-tenant (múltiplas empresas com isolamento de dados), controle de acesso dinâmico (RBAC Granular), trilhas de auditoria contínuas e prevenção contra escalonamento de privilégios.
+* **Backend:** Alta performance com `Node.js`, `Fastify` e `Knex.js` (garantindo transações atômicas).
+* **Frontend:** Interface reativa e escalável em `React` + `TypeScript`, utilizando `Zustand` e `TanStack Query`.
+* **Recursos Avançados:** Motor de processamento de XML, geração nativa de PDFs térmicos, background jobs com `Redis/BullMQ` e conformidade nativa com a **LGPD** (anonimização e portabilidade).
 
-Arquitetura SaaS Multi-tenant, Tratamento de Filas/Jobs
+### 📱 Plataforma de Ensino de Inglês com IA
+> Assistente virtual com IA generativa, RAG e suporte a voz.
+* **Stack:** Backend híbrido com `FastAPI (Python)` e `Node.js`, frontend mobile em `Flutter`.
+* **Mecânicas:** Orquestração de prompts com `LangChain`, armazenamento vetorial no `ChromaDB` e TTS via `Edge TTS`.
 
-IA & Banco de Dados
+### 💬 Chatbot Inteligente para WhatsApp
+> Atendimento automatizado com e sem IA, usando RAG e recuperação contextual.
+* **Stack:** Processamento em tempo real com integração de APIs externas. Armazenamento rápido e estruturado via `Supabase` e `SQLite`.
 
-PostgreSQL, SQLite, Supabase
+### 🍽️ Sistema de Comandas Digitais para Restaurantes
+> Gestão completa de pedidos, mesas e relatórios em tempo real.
+* **Stack:** Front-end mobile robusto em `Flutter`. Back-end em `Node.js + Express` persistindo em banco `SQL` com deploy containerizado em `Docker`.
 
-Redis (BullMQ), ChromaDB (Armazenamento Vetorial)
+### 📚 Tradução Automatizada de Livros com IA
+> Pipeline de processamento de texto em larga escala.
+* **Stack:** Processamento paralelo com `Python` e `LangChain`. Gestão de arquivos brutos em nuvem usando `AWS S3`.
 
-LangChain, APIs de IA Generativa (LLMs)
+---
 
-Infraestrutura & DevOps
+<div align="center">
 
-Docker, Docker Compose, AWS S3, Edge TTS
+## 📚 Formação & Idiomas
 
-🚀 Projetos em Destaque
-🏢 ConversAI-PRO (Plataforma ERP SaaS Multi-tenant)
-Descrição: Plataforma corporativa de gestão integrada para empresas, contendo módulos de PDV, Estoque, Financeiro, CRM e Governança.
+🎓 **Engenharia de Software** – *Cursando* (Descomplica Faculdade Digital)  
+💻 **Formação Técnica em Programação** (Alura • Udemy)  
+🇧🇷 **Português:** Nativo | 🇺🇸 **Inglês:** Básico  
 
-Arquitetura & Segurança: Sistema Multi-tenant (múltiplas empresas no mesmo banco com isolamento de dados) com controle de acesso dinâmico (RBAC Granular), trilhas de auditoria contínuas e prevenção contra escalonamento de privilégios.
+<br>
 
-Backend: Construído para alta performance com Node.js, Fastify e Knex.js (garantindo transações atômicas no banco de dados).
+✨ *Foco em entregar valor real com código limpo, arquitetura sólida e soluções que funcionam.* ✨  
+**Aberto a oportunidades em desenvolvimento full stack, automação, infraestrutura ou produtos com IA.**
 
-Frontend: Interface reativa e escalável em React com TypeScript, utilizando Zustand para gerenciamento de estado global e TanStack Query para cache e sincronização de dados.
-
-Recursos Avançados: Motor de processamento de XML para entrada de notas fiscais, geração nativa de PDFs (recibos térmicos), processamento em background com Redis e BullMQ, e conformidade nativa com a LGPD (anonimização e portabilidade de dados).
-
-📱 Plataforma de Ensino de Inglês com IA
-Descrição: Assistente virtual com IA generativa, RAG e suporte a voz.
-
-Stack: Backend com FastAPI (Python) e Node.js, frontend em Flutter.
-
-Integrações: Uso de LangChain para orquestração de prompts e ChromaDB para armazenamento vetorial. TTS via Edge TTS e integração contínua com histórico de conversas.
-
-💬 Chatbot Inteligente para WhatsApp
-Descrição: Atendimento automatizado com e sem IA, usando RAG e recuperação contextual.
-
-Stack: Integração com APIs externas e processamento de mensagens em tempo real. Armazenamento estruturado em Supabase e SQLite.
-
-🍽️ Sistema de Comandas Digitais para Restaurantes
-Descrição: Gestão completa de pedidos, mesas e relatórios.
-
-Stack: Front-end em Flutter, Back-end com Node.js + Express. Persistência com SQL e deploy em ambientes containerizados (Docker).
-
-📚 Tradução Automatizada de Livros com IA
-Descrição: Pipeline de processamento de texto em larga escala.
-
-Stack: Uso de modelos de linguagem eficientes com Python e LangChain. Processamento paralelo e armazenamento em nuvem (AWS S3 para arquivos brutos).
-
-📚 Formação
-Engenharia de Software – Cursando (Descomplica Faculdade Digital)
-
-Formação Técnica em Programação (Alura • Udemy)
-
-Cursos focados em Full Stack, APIs, Automação, IA, Processamento de Dados e Arquitetura de Software.
-
-🌍 Idiomas
-Português: Nativo
-
-Inglês: Básico
-
-✨ Foco em entregar valor real com código limpo, arquitetura sólida e soluções que funcionam.
-Aberto a oportunidades em desenvolvimento full stack, automação, infraestrutura ou produtos com IA.
+</div>
